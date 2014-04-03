@@ -40,7 +40,7 @@ class Lector(object):
 			y=linea.split(",")
 			self.equipo.append(y[0])
 			self.peso.append(y[1])
-			x = x+1
+			x = x + 1
 
 
 
