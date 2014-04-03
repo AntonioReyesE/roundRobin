@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 #Clase lector
 
 class Lector(object):

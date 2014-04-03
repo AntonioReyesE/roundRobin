@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 #Clase que define todo lo necesario para un equipo
 from random import randrange
 class Equipo:
@@ -37,7 +38,7 @@ class Equipo:
 		goles = randrange(5)
 		self.golFavor = goles
 		self.pJugados = self.pJugados + 1
-		self.difGoles = self.golFavor - self.golContra
+		#self.difGoles = self.golFavor - self.golContra
 		return goles
 
 

@@ -1,5 +1,5 @@
 Champions League
-8
+16
 1
 3
 1
@@ -12,3 +12,11 @@ Cruz Azul,6
 Atlante,2
 Atlas,8
 Pumas,3
+Toluca2,10
+Pachuca2,4
+Chivas2,1
+America2,0
+Cruz Azul2,6
+Atlante2,2
+Atlas2,8
+Pumas2,3
