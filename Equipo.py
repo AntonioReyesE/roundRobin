@@ -37,6 +37,7 @@ class Equipo:
 		goles = randrange(5)
 		self.golFavor = goles
 		self.pJugados = self.pJugados + 1
+		self.difGoles = self.golFavor - self.golContra
 		return goles
 
 
