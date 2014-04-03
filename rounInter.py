@@ -6,9 +6,10 @@ class RoundRobin(object):
     def __init__(self, arg):
         super(RoundRobin, self).__init__()
         self.n = arg
+        self.roundrobin(self.n)
         
 
-    def roundrobin(n):
+    def roundrobin(self,n):
         # setup tabla
         global tabla
         tabla = [range(n)]
@@ -17,11 +18,11 @@ class RoundRobin(object):
             while len(fila)<n: fila.append(0)
             tabla.append(fila)
         # perform recursive brute search
-        encuentraRonda(1,2,n)
+        self.encuentraRonda(1,2,n)
         # output in a dirty manner:
         for fila in tabla: print fila
 
-    def encuentraRonda(fila,columna,dimension):
+    def encuentraRonda(self,fila,columna,dimension):
         global tabla
         posibles = range(dimension) # posibles for round to play the game
         # remove posibles already in the same fila
@@ -38,10 +39,10 @@ class RoundRobin(object):
                 # everything found
                 return 1
             if columna < dimension - 1:
-                if encuentraRonda(fila,columna+1,dimension):
+                if self.encuentraRonda(fila,columna+1,dimension):
                     return 1
             elif fila < dimension - 2:
-                if encuentraRonda(fila+1,fila+2,dimension):
+                if self.encuentraRonda(fila+1,fila+2,dimension):
                     return 1
             # undo the try
             tabla[fila][columna]=0
@@ -52,6 +53,3 @@ class RoundRobin(object):
 # an now call for instance:
 
 r = RoundRobin(10)
-r.roundrobin(16)
-r.roundrobin(8)
-r.roundrobin(4)

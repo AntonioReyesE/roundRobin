@@ -33,10 +33,11 @@ class Juego(object):
 			equipo1.puntos = equipo1.puntos + self.pPerder
 		else:
 			equipo1.puntos = equipo1.puntos + self.pEmpatar
+			equipo1.pEmpatados = equipo1.pEmpatados + 1
 			equipo2.puntos = equipo2.puntos + self.pEmpatar
-			penales()
+			equipo2.pEmpatados = equipo2.pEmpatados + 1
 
-	def penales(self):
+	'''def penales(self):
 		gol1 = randint(0, 5)
 		gol2 = randint(0, 5)
 		if gol1 > gol2:
@@ -50,6 +51,6 @@ class Juego(object):
 			equipo1.pPerdidos = equipo1.pPerdidos + 1
 			equipo1.puntos = equipo1.puntos + self.pPerder
 		else:
-			penales()
+			penales()'''
 		
 		
