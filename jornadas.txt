@@ -1,256 +1,64 @@
 #    Equipo    PJ    PG   PE   PP   GF   GC    DIF   PTS
-1        Toluca        2        2        0        2        0        2        6
-2        Cruz Azul        2        2        0        4        2        2        6
-3        Chivas        2        1        0        1        1        0        3
-4        Atlas        2        1        0        3        3        0        3
-5        Pachuca        2        0        2        0        2        -2        2
-6        Atlante        2        0        2        2        4        -2        2
-7        America        2        0        1        1        1        0        1
-8        Pumas        2        0        1        3        3        0        1
-9        Toluca2        2        2        0        3        1        2        6
-10        Atlas2        2        2        0        3        0        3        6
-11        Atlante2        2        1        0        1        1        0        3
-12        America2        2        1        0        3        0        3        3
-13        Pumas2        2        0        2        0        3        -3        2
-14        Pachuca2        2        0        2        1        3        -2        2
-15        Cruz Azul2        2        0        1        1        1        0        1
-16        Chivas2        2        0        1        0        3        -3        1
+1        Pachuca        2        2        0        2        0        2        6
+2        Atlante        2        2        0        2        0        2        6
+3        Chivas        2        2        0        4        2        2        6
+4        Pumas        2        2        0        4        3        1        6
+5        Toluca        2        0        2        0        2        -2        2
+6        Cruz Azul        2        0        2        0        2        -2        2
+7        America        2        0        2        2        4        -2        2
+8        Atlas        2        0        2        3        4        -1        2
 
-1        Cruz Azul        4        4        0        4        0        4        12
-2        Toluca        4        3        0        3        2        1        9
-3        Atlante        4        1        3        4        3        1        6
-4        Atlas        4        1        2        0        4        -4        5
-5        Pachuca        4        1        2        3        0        3        5
-6        Chivas        4        1        1        2        3        -1        4
-7        America        4        0        2        0        3        -3        2
-8        Pumas        4        1        2        3        4        -1        5
-9        Atlas2        4        4        0        4        0        4        12
-10        Toluca2        4        3        0        3        0        3        9
-11        Atlante2        4        3        0        4        3        1        9
-12        America2        4        1        2        1        3        -2        5
-13        Cruz Azul2        4        0        3        0        4        -4        3
-14        Pachuca2        4        2        2        3        1        2        8
-15        Chivas2        4        0        2        0        3        -3        2
-16        Pumas2        4        0        4        3        4        -1        4
+1        Pumas        4        3        1        0        3        -3        10
+2        Atlante        4        3        1        3        0        3        10
+3        Chivas        4        3        1        3        4        -1        10
+4        Cruz Azul        4        2        2        4        0        4        8
+5        Pachuca        4        2        1        0        0        0        7
+6        Toluca        4        1        3        4        3        1        6
+7        Atlas        4        0        4        0        4        -4        4
+8        America        4        1        2        0        0        0        5
 
-1        Toluca        6        3        2        0        2        -2        11
-2        Pachuca        6        2        3        1        0        1        9
-3        Pumas        6        2        3        4        1        3        9
-4        America        6        2        2        2        0        2        8
-5        Cruz Azul        6        5        1        1        4        -3        16
-6        Atlante        6        2        4        0        2        -2        10
-7        Atlas        6        2        3        2        0        2        9
-8        Chivas        6        2        2        0        1        -1        8
-9        Atlas2        6        5        0        1        1        0        15
-10        Pachuca2        6        2        4        0        1        -1        10
-11        Chivas2        6        2        2        1        0        1        8
-12        America2        6        3        2        3        0        3        11
-13        Cruz Azul2        6        1        4        0        1        -1        7
-14        Atlante2        6        3        1        1        1        0        10
-15        Toluca2        6        3        2        0        3        -3        11
-16        Pumas2        6        1        5        1        0        1        8
+1        Atlante        6        4        1        4        3        1        13
+2        Pumas        6        3        2        2        3        -1        11
+3        Chivas        6        5        1        4        1        3        16
+4        Cruz Azul        6        3        2        3        2        1        11
+5        Pachuca        6        2        3        1        4        -3        9
+6        America        6        3        2        4        2        2        11
+7        Atlas        6        0        5        3        4        -1        5
+8        Toluca        6        1        5        2        4        -2        8
 
-1        Pumas        8        4        3        2        0        2        15
-2        Pachuca        8        2        5        0        2        -2        11
-3        Chivas        8        2        3        0        3        -3        9
-4        America        8        2        4        0        2        -2        10
-5        Cruz Azul        8        5        2        0        2        -2        17
-6        Atlante        8        4        4        2        0        2        16
-7        Atlas        8        3        3        3        0        3        12
-8        Toluca        8        4        2        2        0        2        14
-9        Toluca2        8        3        3        4        4        0        12
-10        Pachuca2        8        3        5        3        0        3        14
-11        Chivas2        8        2        4        0        3        -3        10
-12        America2        8        3        2        1        1        0        11
-13        Cruz Azul2        8        2        4        4        4        0        10
-14        Atlante2        8        4        2        0        3        -3        14
-15        Atlas2        8        7        0        3        0        3        21
-16        Pumas2        8        1        5        1        1        0        8
+1        Atlante        8        5        1        4        3        1        16
+2        Toluca        8        3        5        3        1        2        14
+3        Chivas        8        6        2        3        1        2        20
+4        America        8        4        2        4        4        0        14
+5        Cruz Azul        8        3        4        1        3        -2        13
+6        Pachuca        8        2        4        3        4        -1        10
+7        Atlas        8        1        6        1        3        -2        9
+8        Pumas        8        3        3        4        4        0        12
 
-1        Toluca        10        5        3        0        4        -4        18
-2        Pachuca        10        4        5        3        2        1        17
-3        Chivas        10        3        4        1        0        1        13
-4        America        10        2        6        1        2        -1        12
-5        Cruz Azul        10        5        4        2        3        -1        19
-6        Atlante        10        5        5        4        0        4        20
-7        Atlas        10        5        3        2        1        1        18
-8        Pumas        10        5        4        0        1        -1        19
-9        Toluca2        10        5        3        4        0        4        18
-10        Pachuca2        10        4        6        1        2        -1        18
-11        Chivas2        10        2        6        0        4        -4        12
-12        America2        10        3        3        0        0        0        12
-13        Cruz Azul2        10        3        5        2        1        1        14
-14        Atlante2        10        4        4        0        4        -4        16
-15        Atlas2        10        8        0        0        0        0        24
-16        Pumas2        10        3        5        4        0        4        14
+1        Atlante        10        6        1        4        3        1        19
+2        Pumas        10        4        4        0        4        -4        16
+3        Chivas        10        7        3        4        0        4        24
+4        America        10        4        3        2        3        -1        15
+5        Cruz Azul        10        4        5        0        4        -4        17
+6        Toluca        10        3        6        3        4        -1        15
+7        Atlas        10        2        6        3        2        1        12
+8        Pachuca        10        3        5        4        0        4        14
 
-1        Toluca        12        5        5        2        3        -1        20
-2        Pachuca        12        4        6        0        0        0        18
-3        Chivas        12        4        5        0        2        -2        17
-4        America        12        2        7        2        3        -1        13
-5        Cruz Azul        12        6        5        2        0        2        23
-6        Atlante        12        6        5        3        2        1        23
-7        Atlas        12        7        3        3        2        1        24
-8        Pumas        12        6        4        0        0        0        22
-9        Toluca2        12        6        3        4        3        1        21
-10        Pachuca2        12        5        7        1        4        -3        22
-11        Chivas2        12        3        7        4        0        4        16
-12        America2        12        3        4        0        0        0        13
-13        Cruz Azul2        12        4        6        0        4        -4        18
-14        Atlante2        12        5        4        0        0        0        19
-15        Atlas2        12        8        1        3        4        -1        25
-16        Pumas2        12        4        6        4        1        3        18
+1        Toluca        12        5        6        3        0        3        21
+2        Pumas        12        5        4        3        2        1        19
+3        Chivas        12        8        4        2        4        -2        28
+4        America        12        5        4        3        4        -1        19
+5        Cruz Azul        12        5        6        4        2        2        21
+6        Atlante        12        7        2        4        3        1        23
+7        Atlas        12        2        8        0        3        -3        14
+8        Pachuca        12        3        6        2        3        -1        15
 
-1        Toluca        14        6        6        2        3        -1        24
-2        Pachuca        14        5        6        2        1        1        21
-3        Chivas        14        6        5        3        1        2        23
-4        America        14        2        9        0        1        -1        15
-5        Cruz Azul        14        8        5        1        0        1        29
-6        Atlante        14        6        7        1        3        -2        25
-7        Atlas        14        7        4        1        2        -1        25
-8        Pumas        14        7        5        3        2        1        26
-9        Toluca2        14        7        4        3        4        -1        25
-10        Pachuca2        14        5        9        0        2        -2        24
-11        Chivas2        14        5        7        3        0        3        22
-12        America2        14        4        4        4        4        0        16
-13        Cruz Azul2        14        4        7        4        4        0        19
-14        Atlante2        14        5        6        0        3        -3        21
-15        Atlas2        14        10        1        2        0        2        31
-16        Pumas2        14        5        7        4        3        1        22
-
-1        Toluca        16        7        7        4        2        2        28
-2        Pachuca        16        6        6        0        0        0        24
-3        Chivas        16        6        5        0        0        0        23
-4        America        16        3        9        2        0        2        18
-5        Cruz Azul        16        9        5        4        2        2        32
-6        Atlante        16        7        8        2        4        -2        29
-7        Atlas        16        8        5        3        1        2        29
-8        Pumas        16        8        6        2        0        2        30
-9        Toluca2        16        8        5        2        4        -2        29
-10        Pachuca2        16        5        10        0        0        0        25
-11        Chivas2        16        5        7        0        0        0        22
-12        America2        16        4        5        0        2        -2        17
-13        Cruz Azul2        16        4        8        2        4        -2        20
-14        Atlante2        16        6        7        4        2        2        25
-15        Atlas2        16        11        2        1        3        -2        35
-16        Pumas2        16        6        8        0        2        -2        26
-
-1        Toluca        18        7        9        1        2        -1        30
-2        Pachuca        18        7        7        1        2        -1        28
-3        Chivas        18        8        5        4        2        2        29
-4        America        18        3        11        2        3        -1        20
-5        Cruz Azul        18        10        5        0        0        0        35
-6        Atlante        18        7        9        2        2        0        30
-7        Atlas        18        8        7        1        4        -3        31
-8        Pumas        18        8        7        1        1        0        31
-9        Toluca2        18        9        6        2        1        1        33
-10        Pachuca2        18        7        10        2        1        1        31
-11        Chivas2        18        7        7        3        2        1        28
-12        America2        18        4        7        2        4        -2        19
-13        Cruz Azul2        18        5        8        2        2        0        23
-14        Atlante2        18        6        8        0        0        0        26
-15        Atlas2        18        12        2        1        1        0        38
-16        Pumas2        18        8        8        4        1        3        32
-
-1        Toluca        20        8        10        1        0        1        34
-2        Pachuca        20        7        9        0        1        -1        30
-3        Chivas        20        9        6        1        2        -1        33
-4        America        20        4        12        0        2        -2        24
-5        Cruz Azul        20        11        6        3        1        2        39
-6        Atlante        20        8        10        4        1        3        34
-7        Atlas        20        10        7        3        0        3        37
-8        Pumas        20        9        7        4        0        4        34
-9        Toluca2        20        10        7        2        1        1        37
-10        Pachuca2        20        8        11        2        0        2        35
-11        Chivas2        20        8        8        0        1        -1        32
-12        America2        20        6        7        1        0        1        25
-13        Cruz Azul2        20        5        10        0        3        -3        25
-14        Atlante2        20        6        9        0        4        -4        27
-15        Atlas2        20        13        3        1        3        -2        42
-16        Pumas2        20        9        9        1        4        -3        36
-
-1        Toluca        22        10        10        4        1        3        40
-2        Pachuca        22        8        10        0        2        -2        34
-3        Chivas        22        11        6        3        1        2        39
-4        America        22        5        13        2        3        -1        28
-5        Cruz Azul        22        11        8        0        3        -3        41
-6        Atlante        22        8        12        1        3        -2        36
-7        Atlas        22        11        8        1        3        -2        41
-8        Pumas        22        9        9        0        2        -2        36
-9        Toluca2        22        11        8        3        2        1        41
-10        Pachuca2        22        8        13        1        3        -2        37
-11        Chivas2        22        9        9        2        0        2        36
-12        America2        22        6        9        1        4        -3        27
-13        Cruz Azul2        22        7        10        2        0        2        31
-14        Atlante2        22        7        10        3        1        2        31
-15        Atlas2        22        15        3        3        1        2        48
-16        Pumas2        22        11        9        3        0        3        42
-
-1        Toluca        24        12        10        3        1        2        46
-2        Pachuca        24        8        10        1        1        0        34
-3        Chivas        24        11        8        3        4        -1        41
-4        America        24        6        14        2        3        -1        32
-5        Cruz Azul        24        12        8        2        2        0        44
-6        Atlante        24        8        14        2        3        -1        38
-7        Atlas        24        12        9        2        3        -1        45
-8        Pumas        24        10        9        0        0        0        39
-9        Toluca2        24        11        9        2        2        0        42
-10        Pachuca2        24        10        13        3        2        1        43
-11        Chivas2        24        10        10        3        2        1        40
-12        America2        24        6        10        0        0        0        28
-13        Cruz Azul2        24        7        12        1        3        -2        33
-14        Atlante2        24        7        10        1        1        0        31
-15        Atlas2        24        17        3        4        3        1        54
-16        Pumas2        24        12        10        3        2        1        46
-
-1        Toluca        26        12        11        1        1        0        47
-2        Pachuca        26        9        11        1        0        1        38
-3        Chivas        26        13        8        2        0        2        47
-4        America        26        6        15        3        3        0        33
-5        Cruz Azul        26        13        8        1        1        0        47
-6        Atlante        26        10        14        4        1        3        44
-7        Atlas        26        12        10        4        4        0        46
-8        Pumas        26        11        9        3        1        2        42
-9        Toluca2        26        11        11        1        4        -3        44
-10        Pachuca2        26        10        14        1        1        0        44
-11        Chivas2        26        10        11        1        3        -2        41
-12        America2        26        7        10        4        4        0        31
-13        Cruz Azul2        26        8        13        0        1        -1        37
-14        Atlante2        26        8        10        1        1        0        34
-15        Atlas2        26        18        3        3        3        0        57
-16        Pumas2        26        12        12        0        2        -2        48
-
-1        Toluca        28        12        12        0        1        -1        48
-2        Pachuca        28        10        12        3        0        3        42
-3        Chivas        28        14        9        4        3        1        51
-4        America        28        8        15        3        2        1        39
-5        Cruz Azul        28        13        10        2        4        -2        49
-6        Atlante        28        10        16        0        3        -3        46
-7        Atlas        28        13        11        0        3        -3        50
-8        Pumas        28        12        9        1        1        0        45
-9        Toluca2        28        12        12        3        0        3        48
-10        Pachuca2        28        10        15        1        1        0        45
-11        Chivas2        28        12        11        4        2        2        47
-12        America2        28        9        10        3        0        3        37
-13        Cruz Azul2        28        9        14        3        4        -1        41
-14        Atlante2        28        8        12        2        3        -1        36
-15        Atlas2        28        19        3        1        0        1        60
-16        Pumas2        28        13        13        0        3        -3        52
-
-1        Toluca        30        13        13        2        4        -2        52
-2        Pachuca        30        10        13        4        4        0        43
-3        Chivas        30        15        9        4        0        4        54
-4        America        30        9        16        0        2        -2        43
-5        Cruz Azul        30        14        11        3        1        2        53
-6        Atlante        30        10        17        3        4        -1        47
-7        Atlas        30        13        13        0        2        -2        52
-8        Pumas        30        13        9        2        0        2        48
-9        Toluca2        30        12        13        0        2        -2        49
-10        Pachuca2        30        12        15        2        0        2        51
-11        Chivas2        30        13        11        4        3        1        50
-12        America2        30        10        11        1        3        -2        41
-13        Cruz Azul2        30        10        15        2        0        2        45
-14        Atlante2        30        8        13        0        4        -4        37
-15        Atlas2        30        20        3        4        4        0        63
-16        Pumas2        30        14        14        4        2        2        56
+1        Toluca        14        6        6        4        2        2        24
+2        Pachuca        14        4        6        4        3        1        18
+3        Chivas        14        10        4        3        0        3        34
+4        America        14        6        4        3        1        2        22
+5        Cruz Azul        14        5        7        1        3        -2        22
+6        Atlante        14        7        4        0        3        -3        25
+7        Atlas        14        2        9        3        4        -1        15
+8        Pumas        14        5        5        2        4        -2        20
 
