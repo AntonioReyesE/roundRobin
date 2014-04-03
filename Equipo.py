@@ -1,21 +1,22 @@
 #Clase que define todo lo necesario para un equipo
-class Equipo(object):
+from random import randrange
+class Equipo:
 	"""docstring for Equipo"""
 
 	#Atributos de la clase equipo
-	peso
-	nombre
-	numero
+	peso = 0
+	nombre = ""
+	numero = 0
 	#Estadisticas necesarias
-	posicion
-	pJugados
-	pGanados
-	pEmpatados
-	pPerdidos
-	golFavor
-	golContra
-	difGoles
-	puntos
+	posicion = 0
+	pJugados = 0
+	pGanados = 0
+	pEmpatados = 0
+	pPerdidos = 0
+	golFavor = 0
+	golContra = 0
+	difGoles = 0
+	puntos = 0
 
 	#Constructor de la clase
 	def __init__(self, peso, nombre, numero):
@@ -33,12 +34,10 @@ class Equipo(object):
 		self.puntos = 0
 
 	def jugarPartido(self):
-		goles = randint(0, 10)
+		goles = randrange(5)
 		self.golFavor = goles
 		self.pJugados = self.pJugados + 1
 		return goles
-		
-
 
 
 
